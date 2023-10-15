@@ -1,1 +1,5 @@
 .idea
+build.cmd
+/build/
+/dist/
+/lazyMossAPI.egg-info/
